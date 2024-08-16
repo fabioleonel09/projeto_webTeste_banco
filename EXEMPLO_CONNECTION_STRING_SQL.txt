@@ -1,0 +1,5 @@
+Data Source=DESKTOP-N8EH36C\PARTICULARSQL;Initial Catalog=SISCONPROJECTS;Integrated Security=True
+
+ou 
+
+Data Source=DESKTOP-N8EH36C\PARTICULARSQL;Initial Catalog=SISCONPROJECTS;User ID=seu_usuario;Password=sua_senha
